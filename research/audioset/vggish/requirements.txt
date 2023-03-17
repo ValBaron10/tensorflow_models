@@ -1,0 +1,10 @@
+ipympl==0.9.3
+jupyter==1.0.0
+librosa==0.10.0.post1
+matplotlib==3.5.0
+numpy==1.23.5
+resampy==0.4.2
+six==1.16.0
+soundfile==0.12.1
+tensorflow==2.11.0
+tf-slim==1.1.0
